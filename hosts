@@ -64,3 +64,15 @@
 0.0.0.0 18com.google.firebase.crash
 0.0.0.0 102com.codahale.metrics
 0.0.0.0 9com.openback
+0.0.0.0 193com.adjust.sdk
+0.0.0.0 158com.appboy
+0.0.0.0 369com.bugsnag
+0.0.0.0 189com.facebook.appevents
+0.0.0.0 3com.facebook.login
+0.0.0.0 28com.google.ads
+0.0.0.0 226com.google.android.gms.ads
+0.0.0.0 28com.google.android.gms.analytics
+0.0.0.0 292com.google.android.gms.measurement
+0.0.0.0 12com.google.firebase.analytics
+0.0.0.0 28com.google.android.gms.tagmanager
+0.0.0.0 375io.opentelemetry
