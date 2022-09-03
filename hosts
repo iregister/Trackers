@@ -1,6 +1,6 @@
 # Known Trackers
 #
-# ===============================================================
+#
 
 0.0.0.0 8com.google.android.gms.measurement
 0.0.0.0 2com.google.firebase.analytics
@@ -76,3 +76,6 @@
 0.0.0.0 12com.google.firebase.analytics
 0.0.0.0 28com.google.android.gms.tagmanager
 0.0.0.0 375io.opentelemetry
+0.0.0.0 204com.adjust.sdk
+0.0.0.0 31com.google.android.gms.tagmanager
+0.0.0.0 278com.swrve.sdk
